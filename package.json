@@ -11,6 +11,7 @@
     "classnames": "^2.3.1",
     "dayjs": "^1.11.2",
     "lib-flexible": "^0.3.2",
+    "pm2": "^5.2.0",
     "postcss-pxtorem": "^6.0.0",
     "pushstate-server": "^3.1.0",
     "query-string": "^7.1.1",
